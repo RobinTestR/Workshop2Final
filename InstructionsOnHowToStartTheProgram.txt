@@ -1,0 +1,5 @@
+Forgot to add the instructions to run the program:
+1.You need to create text files with the name MemberInfo and BoatInfo
+2.And then add your own file path in the code. You will find the code at the begining of the class Console.java in the package View:
+File readMemberData = new File("C:\\Users\\Robin\\Desktop\\MemberInfo.txt"); // change to your own path
+File readBoatData = new File("C:\\Users\\Robin\\Desktop\\BoatInfo.txt"); // change path to your own path
